@@ -4,3 +4,6 @@ td, th {
 th {
     font-size: 20px;
 }
+.container-fluid {
+    max-width: 1024px;
+}
